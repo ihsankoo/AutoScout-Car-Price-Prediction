@@ -1,4 +1,4 @@
-# 🚗Car Price Prediction Capstone Project 🚙
+# 🚗 Car Price Prediction 🚙
 
 
 
